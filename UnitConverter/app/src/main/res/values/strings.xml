@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="converter">Converter</string>
+    <string name="tvChoice">Choose the type of unit you want to convert:</string>
+    <string name="Input">Input the value you want to convert</string>
+    <string name="ConvertHint">Value to convert</string>
+    <string name="Convert">Convert</string>
+    <string name="ConvertedHInt">Converted value</string>
+    <string name="chooseFragment">Choose the unit to convert</string>
+    <string-array name="Currency_array">
+        <item>USD</item>
+        <item>Euro</item>
+        <item>Croatian Kuna</item>
+        <item>Swiss Franc</item>
+        <item>British Pound</item>
+        <item>Japanese Yen</item>
+        <item>Serbian Dinar</item>
+        <item>Bosnian Mark</item>
+        <item>Norwegian Krone</item>
+    </string-array>
+    <string-array name="Number_array">
+        <item>Decimal</item>
+        <item>Octal</item>
+        <item>Binary</item>
+        <item>Hexadecimal</item>
+    </string-array>
+    <string-array name="Length_array">
+        <item>Kilometer</item>
+        <item>Meter</item>
+        <item>Milimetre</item>
+        <item>Centimeter</item>
+        <item>Micrometre</item>
+        <item>Nanometre</item>
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Foot</item>
+        <item>Inch</item>
+    </string-array>
+    <string-array name="Temperature_array">
+        <item>Celsius</item>
+        <item>Kelvin</item>
+        <item>Fahrenheit</item>
+    </string-array>
+</resources>
